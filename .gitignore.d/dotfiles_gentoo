@@ -1,0 +1,7 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/config.d
+!/.config/mr/config.d/dotfiles_gentoo.vcsh
+!/.gitignore.d
+!/.gitignore.d/dotfiles_gentoo
