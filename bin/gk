@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for f in `ls -v1r /etc/kernels/`; do
+	genkernel --kernel-config=/etc/kernels/${f} --menuconfig all
+	[[ $? ]] && grub2-mkconfig -o /boot/grub/grub.cfg
+	break
+done

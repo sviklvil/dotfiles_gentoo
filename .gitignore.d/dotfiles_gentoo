@@ -5,3 +5,7 @@
 !/.config/mr/config.d/dotfiles_gentoo.vcsh
 !/.gitignore.d
 !/.gitignore.d/dotfiles_gentoo
+!/.src
+!/.src/dotfiles_gentoo.mrconfig
+!/bin
+!/bin/gk
