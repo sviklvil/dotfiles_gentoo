@@ -1,10 +1,10 @@
 *
 !/.config
-!/.config/env.d
-!/.config/env.d/dotfiles_gentoo
 !/.config/mr
 !/.config/mr/config.d
 !/.config/mr/config.d/dotfiles_gentoo.vcsh
+!/.config/zsh
+!/.config/zsh/dotfiles_gentoo.zshrc
 !/.gitignore.d
 !/.gitignore.d/dotfiles_gentoo
 !/.src
