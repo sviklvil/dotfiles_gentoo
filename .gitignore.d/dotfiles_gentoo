@@ -1,5 +1,7 @@
 *
 !/.config
+!/.config/env.d
+!/.config/env.d/dotfiles_gentoo
 !/.config/mr
 !/.config/mr/config.d
 !/.config/mr/config.d/dotfiles_gentoo.vcsh
